@@ -1,5 +1,4 @@
-/about         /about.html         200
-/contact       /contact.html       200
-/register      /register.html      200
-/request       /request.html       200
-/appointments  /appointments.html  200
+/index         /index.html        200
+/help       /help.html       200
+/register      /Register.html      200
+/donate       /donate.html       200
